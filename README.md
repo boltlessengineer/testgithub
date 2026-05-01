@@ -1,6 +1,8 @@
 ![sui](./sui.jpeg)
 ![sui](/sui.jpeg)
 ![sui](/boltlessengineer/testgithub/raw/master/sui.jpeg)
+![sui](https://tangled.org/boltless.me/testrender/raw/master/sui.jpeg)
+![sui](https://github.com/boltlessengineer/testgithub/blob/master/sui.jpeg?raw=true)
 
 <img alt="sui" src="./sui.jpeg">
 <img alt="sui" src="/sui.jpeg">
